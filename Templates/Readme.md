@@ -14,4 +14,4 @@
 * FINISH (provide link to GitHub release package)
 
 ## Latest released templates
-* (USACE CAD/BIM Center](https://cadbimcenter.erdc.dren.mil/default.aspx?p=a&t=1&i=12)
+* [USACE CAD/BIM Center](https://cadbimcenter.erdc.dren.mil/default.aspx?p=a&t=1&i=12)
