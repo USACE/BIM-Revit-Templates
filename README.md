@@ -1,7 +1,7 @@
 ##USACE Revit Templates
 
 * Current development activity
-   * Review v3 beta templates and provide [comments/issues](https://github.com/USACE/BIM-Revit/issues) and submissions as a [pull request](https://github.com/USACE/BIM-Revit/pulls)
+   * Review [v3 beta templates](https://github.com/USACE/BIM-Revit-Templates/blob/master/USACE_Revit2016_Template_BASE_v3.0.rte), (Template Guide)[ and provide [comments/issues](https://github.com/USACE/BIM-Revit/issues) and submissions as a [pull request](https://github.com/USACE/BIM-Revit/pulls)
 
 ### Contribution Guidelines
 * GitHub accelerates collaboration if certain guidelines are followed.
@@ -9,6 +9,8 @@
    * Finding mistakes and providing [comments/issues](https://github.com/USACE/BIM-Revit/issues)
    * Submitting [ideas and feature requests](https://github.com/USACE/BIM-Revit/issues)
    * Provide submissions for consideration as a [pull request](https://github.com/USACE/BIM-Revit/pulls)
+      * For the Word document, please turn on track changes and submit as a [pull request](https://github.com/USACE/BIM-Revit/pulls)
+      * For the Revit content, please make the edit and create a [model compare report](https://apps.autodesk.com/RVT/en/Detail/Index?id=2644504617455403576&appLang=en&os=Win64) and submit as a [pull request](https://github.com/USACE/BIM-Revit/pulls)
 
 ### Latest beta templates
 * FINISH (provide link to GitHub release package)
