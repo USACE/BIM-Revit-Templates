@@ -1,4 +1,4 @@
-##USACE Revit Templates
+## USACE Revit Templates
 
 ### Current development activity
    * Review [v3 beta templates](https://github.com/USACE/BIM-Revit-Templates/blob/master/USACE_Revit2016_Template_BASE_v3.0.rte), [Template Guide](https://github.com/USACE/BIM-Revit-Templates/blob/master/USACE_Revit2016_Template_Master-Guide_v3.0-BETA.docx) and provide [comments/issues](https://github.com/USACE/BIM-Revit-Templates/issues) and submit fixes and new features as a [pull request](https://github.com/USACE/BIM-Revit-Templates/pulls)
